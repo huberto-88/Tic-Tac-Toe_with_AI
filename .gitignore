@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Tic-Tac-Toe with AI/task/build/
+/Tic-Tac-Toe with AI/task/out/
+/Tic-Tac-Toe with AI/task/out/production/classes/
+/Topics/Processing strings/Double characters/out/
+/Topics/Processing strings/Double characters/out/production/classes/
